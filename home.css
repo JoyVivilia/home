@@ -1,0 +1,36 @@
+body{
+    background-image: url(https://images01.nicepage.com/c461c07a441a5d220e8feb1a/34a85bbe4b115ae7a4f6ab58/gh4-min.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+h1{
+    text-align: center;
+    margin-top: 100px;
+}
+.main{
+    display: flex;
+ margin-left: 150px;
+ margin-top: 200px;
+}
+img{
+    height: 200px;
+    width: 200px;
+    margin-top: 20px;
+}
+.container{
+    background-color: white;
+    margin: 2%;
+    height: 380px;
+    width: 25%;
+    border: 2px #000;
+    border-radius: 15%;
+    text-align: center;
+}
+button{
+    height: 30px;
+    width: 100px;s
+}
+button:hover{
+    background-color: hotpink;
+}
